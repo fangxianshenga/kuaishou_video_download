@@ -32,4 +32,4 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\selenum\AutomationPr
 4. 在新弹出谷歌浏览器框里打开快手网址，登入。
 5. 搜索下载：输入搜索条件，手动下拉到底部。运行`快手搜索下载视频.py`![在这里插入图片描述](https://img-blog.csdnimg.cn/20210312145533284.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lleWVkZXdlbg==,size_16,color_FFFFFF,t_70)
 6. 用户下载：打开用户界面，手动下拉到底部。运行`快手用户视频下载.py`
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210312150005943.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lleWVkZXdlbg==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/202103121503015.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lleWVkZXdlbg==,size_16,color_FFFFFF,t_70)
